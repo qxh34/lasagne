@@ -5,3 +5,4 @@ basil
 onions
 meat
 vindi
+Egg

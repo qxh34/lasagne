@@ -2,3 +2,5 @@ tomatoes
 cheese
 noodles
 basil
+onions
+meat
